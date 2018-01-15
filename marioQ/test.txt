@@ -1,0 +1,5 @@
+character = Surface((100,80),pygame.SRCALPHA)
+character.blit(spritesheet,(-22,9))
+character = pygame.transform.scale(character, (100*3,80*3))
+sdasda = character
+
